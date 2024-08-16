@@ -34,9 +34,7 @@ A estrutura pode variar de acordo com a instituição, mas geralmente inclui as 
 - Citar autores principais e obras de referência.
 
 #### d. **Metodologia**
-- **Tipo de Pesquisa**: Explicar se é uma pesquisa qualitativa, quantitativa ou mista.
-- **Técnicas e Instrumentos**: Descrever como os dados serão coletados (ex.: entrevistas, questionários, experimentos) e analisados.
-- **População e Amostra**: Definir quem serão os sujeitos ou o material de estudo.
+- **Técnicas e Instrumentos**: Metodologia de desenvolvimento ágil como Kanban,
 - **Cronograma**: Estabelecer um cronograma das atividades propostas, incluindo fases como pesquisa, coleta de dados, análise, redação, etc.
 
 #### e. **Resultados Esperados**
@@ -58,18 +56,7 @@ A estrutura pode variar de acordo com a instituição, mas geralmente inclui as 
 
 ---
 
-### 4. Cronograma de Elaboração da Proposta
-
-- **Semanas 1-2**: Escolha do tema e leitura preliminar.
-- **Semanas 3-4**: Redação da Introdução, Justificativa e Objetivos.
-- **Semanas 5-6**: Desenvolvimento do Referencial Teórico.
-- **Semanas 7-8**: Definição da Metodologia e Resultados Esperados.
-- **Semana 9**: Revisão final e formatação do documento.
-- **Semana 10**: Entrega da Proposta.
-
----
-
-### 5. Considerações Finais
+### 4. Considerações Finais
 
 - A proposta é um guia para o desenvolvimento do TFG, mas pode ser ajustada ao longo do processo de pesquisa.
 - A participação ativa de um orientador é fundamental para o sucesso da proposta e do trabalho final.
