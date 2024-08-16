@@ -25,30 +25,25 @@ A estrutura pode variar de acordo com a instituição, mas geralmente inclui as 
 
 #### b. **Introdução**
 - **Contextualização**: Apresenta o tema de forma ampla, destacando sua relevância.
-- **Problematização**: Delimita o problema de pesquisa, indicando as lacunas que o trabalho pretende preencher.
+- **Problematização / Justificativa**: Delimita o problema de pesquisa, indicando as lacunas que o trabalho pretende preencher.
 - **Objetivos**: Diferenciar entre objetivo geral e específicos. O objetivo geral reflete o propósito central do trabalho, enquanto os específicos detalham os passos necessários para atingir o objetivo geral.
 
-#### c. **Justificativa**
-- Explicar a relevância do tema escolhido.
-- Relacionar o tema com áreas de interesse pessoal, profissional e acadêmico.
-- Destacar a contribuição esperada do trabalho para a área de estudo.
-
-#### d. **Referencial Teórico**
+#### c. **Referencial Teórico**
 - Apresentar uma revisão da literatura relevante para o tema.
 - Identificar teorias, modelos e estudos que fundamentarão a pesquisa.
 - Citar autores principais e obras de referência.
 
-#### e. **Metodologia**
+#### d. **Metodologia**
 - **Tipo de Pesquisa**: Explicar se é uma pesquisa qualitativa, quantitativa ou mista.
 - **Técnicas e Instrumentos**: Descrever como os dados serão coletados (ex.: entrevistas, questionários, experimentos) e analisados.
 - **População e Amostra**: Definir quem serão os sujeitos ou o material de estudo.
 - **Cronograma**: Estabelecer um cronograma das atividades propostas, incluindo fases como pesquisa, coleta de dados, análise, redação, etc.
 
-#### f. **Resultados Esperados**
+#### e. **Resultados Esperados**
 - Descrever brevemente quais são os resultados esperados da pesquisa.
 - Indicar possíveis contribuições para a área de estudo ou para a prática profissional.
 
-#### g. **Referências Bibliográficas**
+#### f. **Referências Bibliográficas**
 - Listar as fontes citadas na proposta, seguindo as normas da ABNT ou outro estilo requerido pela instituição.
 - Incluir apenas as obras que foram efetivamente citadas na proposta.
 
